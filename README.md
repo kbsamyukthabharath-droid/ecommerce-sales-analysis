@@ -23,6 +23,7 @@ The following visualizations were created:
 * Pandas
 * NumPy
 * Matplotlib
+* Seaborn
 
 ## Project Structure
 
@@ -33,5 +34,5 @@ ecommerce-sales-analysis/
 ├── commerce_analysis.py
 ├── README.md
 └── requirements.txt
-* Seaborn
+
 
